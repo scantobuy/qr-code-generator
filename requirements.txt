@@ -1,0 +1,7 @@
+six
+qrcode
+PIL
+pisa
+reportlab
+html5lib
+numpy
